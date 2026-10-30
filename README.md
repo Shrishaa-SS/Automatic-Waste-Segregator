@@ -1,2 +1,2 @@
 # Automatic-Waste-Segregator
-A CNN based model built from scratch to classify the type pf waste/
+A CNN based model built from scratch to classify the type of waste
